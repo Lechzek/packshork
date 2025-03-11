@@ -10,6 +10,8 @@ ___
 
 ___
 
+[![](https://jitpack.io/v/Lechzek/packshork.svg)](https://jitpack.io/#Lechzek/packshork)
+
 ## Features
 
 - DSL-like builder style using lambdas
